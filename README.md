@@ -15,4 +15,4 @@ Open frontend/index.html in browser.
 - Add task
 - View pending & completed tasks
 - Mark task as completed
-- Uses in-memory storage
+- Uses in-memory storage"# FullStackProject" 
